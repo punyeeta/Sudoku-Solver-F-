@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="[CS315] Sudoku Solver F#">
+    <resource name="FSharpSignatureData.[CS315] Sudoku Solver F#" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.[CS315] Sudoku Solver F#" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.[CS315] Sudoku Solver F#" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.[CS315] Sudoku Solver F#" action="remove"></resource>
+    <resource name="FSharpOptimizationData.[CS315] Sudoku Solver F#" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.[CS315] Sudoku Solver F#" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.[CS315] Sudoku Solver F#" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.[CS315] Sudoku Solver F#" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.[CS315] Sudoku Solver F#" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.[CS315] Sudoku Solver F#" action="remove"></resource>
+  </assembly>
+</linker>

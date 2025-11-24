@@ -1,0 +1,29 @@
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\[CS315] Sudoku Solver F#.exe
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\[CS315] Sudoku Solver F#.deps.json
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\[CS315] Sudoku Solver F#.runtimeconfig.json
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\[CS315] Sudoku Solver F#.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\[CS315] Sudoku Solver F#.pdb
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\FSharp.Core.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\cs\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\de\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\es\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\fr\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\it\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\ja\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\ko\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\pl\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\ru\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\tr\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\bin\Debug\net10.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\obj\Debug\net10.0\[CS315] Sudoku Solver F#.fsproj.AssemblyReference.cache
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\obj\Debug\net10.0\[CS315] Sudoku Solver F#.AssemblyInfoInputs.cache
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\obj\Debug\net10.0\[CS315] Sudoku Solver F#.AssemblyInfo.fs
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\obj\Debug\net10.0\[CS315] Sudoku Solver F#.fsproj.CoreCompileInputs.cache
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\obj\Debug\net10.0\[CS315] .4138C88A.Up2Date
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\obj\Debug\net10.0\[CS315] Sudoku Solver F#.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\obj\Debug\net10.0\refint\[CS315] Sudoku Solver F#.dll
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\obj\Debug\net10.0\[CS315] Sudoku Solver F#.pdb
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\obj\Debug\net10.0\[CS315] Sudoku Solver F#.genruntimeconfig.cache
+C:\Users\Locsin\Desktop\Roxanne\[CS315] Sudoku Solver F#\obj\Debug\net10.0\ref\[CS315] Sudoku Solver F#.dll

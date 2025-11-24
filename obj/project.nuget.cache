@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ac0ry+nE9HE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Locsin\\Desktop\\Roxanne\\[CS315] Sudoku Solver F#\\[CS315] Sudoku Solver F#.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Locsin\\.nuget\\packages\\fsharp.core\\10.0.100\\fsharp.core.10.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
