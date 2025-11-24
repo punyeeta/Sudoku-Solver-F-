@@ -38,21 +38,12 @@ dotnet run --project YourProjectName.fsproj
 ```
 Replace *YourProjectName* with the actual project file name.
 
-### 4. Input instructions (if applicable)
-If your program requires user input (e.g., a Sudoku board), input numbers row by row. Use 0 for empty cells.
-
-Example Input:
-```
-5 3 0 0 7 0 0 0 0
-6 0 0 1 9 5 0 0 0
-0 9 8 0 0 0 0 6 0
-8 0 0 0 6 0 0 0 3
-4 0 0 8 0 3 0 0 1
-7 0 0 0 2 0 0 0 6
-0 6 0 0 0 0 2 8 0
-0 0 0 4 1 9 0 0 5
-0 0 0 0 8 0 0 7 9
-```
+### 4. Input instructions
+The Sudoku board will be provided through an external text file (e.g., `input.txt`).  
+- Edit the file to input the numbers row by row, separated by spaces.  
+- Use `0` to represent empty cells.  
+- Example row: `5 3 0 0 7 0 0 0 0`  
+- The program will read the board from this file and solve it automatically.
 
 ---
 
