@@ -54,10 +54,14 @@ Example Input:
 0 0 0 0 8 0 0 7 9
 ```
 
+---
+
 ## Features
 - Solves Sudoku boards of any difficulty
 - Outputs solved board in console
 - Validates input before solving
+
+---
 
 ## Troubleshooting
 - If you see command not found: dotnet, ensure the .NET SDK is installed and added to your PATH.
